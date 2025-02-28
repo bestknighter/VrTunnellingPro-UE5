@@ -1,3 +1,16 @@
+> [!WARNING]
+>  # Attention!
+> 
+> **I'm not maintaining the project to keep it functional! Only to keep it compatible.**
+> 
+> This fork's main, and only, goal is to keep this plugin compatible with the lastest version of Unreal, i.e., you can add the plugin and the project will compile. If it compiles but stops working correctly, I'll stop updating.
+>
+> Below is the readme from the original project, verbatim.
+
+> [!IMPORTANT]
+> Check the releases to see which version I managed to get it compiling.
+
+
 VR Tunnelling Pro (VRTP) is the most advanced VR comfort solution for Unreal Engine 4.20+. It can be dropped in to almost any project for plug-and-play comfort options. It's developed by Sigtrap with support from Oculus, and currently supports Oculus Rift.
 
 *VRTP is currently in beta for UE4.*
